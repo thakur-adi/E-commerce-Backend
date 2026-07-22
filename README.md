@@ -19,7 +19,7 @@ SSH:- git@github.com:thakur-adi/user-auth-service.git
 ## Email MicroService
 Lightweight Kafka-driven email microservice — consumes topic-per-action events from the User-Auth-Service and dispatches emails via SMTP, with the payload fully owned by the producer.
 
-HTTPS:- https://github.com/thakur-adi/user-auth-service.git
+HTTPS:- https://github.com/thakur-adi/Email-Service.git
 
 SSH:- git@github.com:thakur-adi/Email-Service.git
 
